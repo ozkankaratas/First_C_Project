@@ -1,8 +1,8 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
-// OZKAN-KARATAS 200255032 IKINCI OGRETIM
+// OZKAN-KARATAS 
 //
-//   Odev icinde çalisanlar;
+//   Icinde çalisanlar;
 // - Kullanici tarafindan ogrenilen ay secimi
 // - Kullanici tarafindan secilen fonksiyonun calismasi
 // - Dosya boyutunu ogrenmek
